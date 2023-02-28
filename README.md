@@ -1,6 +1,6 @@
 # Qhack2023--project
 
-In this repository we set out to calculate the the ground state energy of the molecule as accurately using a hybrid quantum-classical algorithm,using TETRIS Adaptive VQE for BeH2 file i for quantum chemistry challenge, Quantum computing today challenge, and Hybrid Quantum-Classical Computing Challenge, also we used two error mitigation technique (NI+TFLO) to our VQE to accelerated 
+In this repository we set out to calculate the the ground state energy of the molecule as accurately using a hybrid quantum-classical algorithm,using [TETRIS Adaptive VQE for BeH2 file](https://github.com/Qcatty/Qhack2023--project/blob/main/TETRIS_Adaptive_VQE_for_BeH2.ipynb) for quantum chemistry challenge, Quantum computing today challenge, and Hybrid Quantum-Classical Computing Challenge, also we used two error mitigation technique (NI+TFLO) to our VQE to accelerated 
 
 for the manufacturing problem, we tried to solve the vehicule routing problem using the F-VQE, we haven't had enough time to apply the error mitigation technique (NI+TFLO) to our F-VQE, but we will work on that later!
 
