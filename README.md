@@ -7,7 +7,11 @@ for the manufacturing problem, we tried to solve the vehicule routing problem us
 our work is base on these papers: 
 
 https://arxiv.org/pdf/2209.03796.pdf?forcedefault=true
+
 https://arxiv.org/pdf/2111.05176.pdf
+
 https://www.nature.com/articles/s41467-019-10988-2
+
 https://arxiv.org/abs/1812.11173
+
 
