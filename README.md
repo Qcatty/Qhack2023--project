@@ -10,8 +10,8 @@ https://arxiv.org/pdf/2209.03796.pdf?forcedefault=true
 
 https://arxiv.org/pdf/2111.05176.pdf
 
-https://www.nature.com/articles/s41467-019-10988-2
+[ADAPT-VQE](https://www.nature.com/articles/s41467-019-10988-2)
 
-https://arxiv.org/abs/1812.11173
+[TETRIS-ADAPT-VQE](https://arxiv.org/abs/2209.10562)
 
 
